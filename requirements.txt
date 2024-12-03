@@ -1,0 +1,6 @@
+pyopenjtalk
+cn2an
+jieba
+LangSegment
+py3langid
+langid
