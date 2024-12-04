@@ -8,7 +8,7 @@ import numpy as np
 import torch.nn as nn
 import math
 from einops import rearrange
-from models.tts.maskgct.llama_nar import DiffLlamaPrefix
+from llama_nar import DiffLlamaPrefix
 
 
 def top_k(logits, thres=0.9):
